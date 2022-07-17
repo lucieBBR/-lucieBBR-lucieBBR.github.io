@@ -4,7 +4,7 @@ description         : >-
                       Full-stack developer with a background in International Relations and a passion for sustainability. 
                       
                       Transitioning to tech after 5 years working mainly in NGOs and EU institutions in the areas of Communication, Project Management, and Administration. 
-baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : ''                 # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : lucieBBR/lucieBBR.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
@@ -59,37 +59,37 @@ collections:
 
 
 ### Disqus ###
-disqus:
-  shortname: LucieBabor                     # Your website Shortname on disqus
+# disqus:
+#   shortname: LucieBabor                     # Your website Shortname on disqus
 
 
 ### Analytics ###
 analytics:
-  enabled: true                                        # Set true to enable analytics
+  enabled: false                                        # Set true to enable analytics
   google:
     tracking_id: your-google-tracking-id
 
 
 ### Buy me a coffee ###
 # See https://www.buymeacoffee.com/
-# buymeacoffee:
-#   enabled: false
-#   username: lucieBBR
-#   color: "#007bff"
-#   message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
-#   description: "Support me on Buy me a coffee!"
+buymeacoffee:
+  enabled: false
+  username: lucieBBR
+  color: '#007bff'
+  message: 'Thank you for visiting.'                  # Message to be displayed aside from the button for a few seconds.
+  description: 'Support me on Buy me a coffee!'
 
 
 ### Defaults for collections ###
 defaults:
   - scope:
-      path: ""
-      type: "projects"
+      path: ''
+      type: 'projects'
     values:
-      layout: "page"
+      layout: 'page'
   - scope:
-      path: ""
-      type: "posts"
+      path: ''
+      type: 'posts'
     values:
       comments: false                                   # Set to true to enable disqus comments
 
@@ -99,4 +99,4 @@ exclude:
   - README.md
   - CONTRIBUTING.md
   - LICENSE
-  - "*.log"
+  - '*.log'
