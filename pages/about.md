@@ -17,11 +17,11 @@ I love to learn new technologies, build things, and improve the efficiency of pr
 
 Recently I have completed a Full-Stack Bootcamp at CodeOp’s Full-Stack Development Bootcamp, where I have received +550 hours of advanced training in technologies such as JavaScript ES6+, ReactJS, ReactContext API, HTML5, CSS, Bootstrap 5, Tailwind CSS, Node.js, Express.js, and MySQL.
 
-<div class="row">
+<!-- <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
 <div class="row">
 {% include about/timeline.html %}
-</div>
+</div> -->
