@@ -11,7 +11,7 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
 
 I am an aspiring Full-Stack Developer with a background in International Relations and a passion for sustainability. Currently, I am transitioning to tech after 5 years in various areas, like Communication, Customer Service, Project Management, and Administration, working for various NGOs and EU institutions.
 
-On my journey, I met some very inspiring people from the tech industry and I discovered my passion for working with different digital tools and enjoyed the empowerment it would give me. I have realized how big potential technology has to positively affect peoples' lives, and I decided that tech is the place to be. 
+On my journey, I met some very inspiring people from the tech industry and I discovered my passion for working with different digital tools and enjoyed the empowerment it would give me. I have realized how big potential technology has to positively affect people's lives, and I decided that tech is the place to be. 
 
 I love to learn new technologies, build things, and improve the efficiency of processes. If not in front of the screen, you will find me on the dance floor, in the gym, hiking, or relaxing on the beach.
 
