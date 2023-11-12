@@ -9,13 +9,15 @@ weight: 3
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 
-I am an aspiring Full-Stack Developer with a background in International Relations and a passion for sustainability. Currently, I am transitioning to tech after 5 years in various areas, like Communication, Customer Service, Project Management, and Administration, working for various NGOs and EU institutions.
+I am a Full-Stack Developer with a background in International Relations and a passion for sustainability. I have transitioned to tech after 5 years in Communication, Customer Service, Project Management, and Administration, working for various NGOs and EU institutions.
+
+During the past years, I have gained a wide range of knowledge and abilities in the above-mentioned fields. I have also had exposure to digitalization and change management programs within the workplace, and have experienced working in a dynamic environment, including in remote/hybrid regimes. 
 
 On my journey, I met some very inspiring people from the tech industry and I discovered my passion for working with different digital tools and enjoyed the empowerment it would give me. I have realized how big potential technology has to positively affect people's lives, and I decided that tech is the place to be. 
 
 I love to learn new technologies, build things, and improve the efficiency of processes. If not in front of the screen, you will find me on the dance floor, in the gym, hiking, or relaxing on the beach.
 
-Recently I have completed a Full-Stack Bootcamp at CodeOp’s Full-Stack Development Bootcamp, where I have received +550 hours of advanced training in technologies such as JavaScript ES6+, ReactJS, ReactContext API, HTML5, CSS, Bootstrap 5, Tailwind CSS, Node.js, Express.js, and MySQL.
+I seek to use and grow my development skills to contribute to impactful products and work with enthusiastic colleagues.
 
 <!-- <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
