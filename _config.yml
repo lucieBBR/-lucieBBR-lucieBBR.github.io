@@ -4,6 +4,7 @@ description         : >-
                       Full-stack developer with a background in International Relations and a passion for sustainability. 
                       
                       Transitioned to tech after 5 years working mainly in NGOs and EU institutions in the areas of Communication, Project Management, and Administration. Currently working as a developer in a foundation focused on educational projects.
+favicon: /assets/favicon.ico
 baseurl             : ''                 # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : lucieBBR/lucieBBR.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
